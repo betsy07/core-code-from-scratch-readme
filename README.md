@@ -1,5 +1,5 @@
 # core-code-from-scratch-readme
-
+[11/23/2022]
 Algorithm to prepare pizza
 
 Conseguir los ingredientes necesarios para la masa:
@@ -52,4 +52,26 @@ SPHERE
 4. y el resultado anterior multiplicarlo por 4/3
 5. mostrar el resultado del procesos anterior, el esultado es el volumen de la esfera
 
+--------------------------------------------------------
+[11/24/2022]
+-Design an algorithm to check if a number is even or odd. If it is even, write that it is even, otherwise write that it is odd. Represent the algorithm in a flowchart.
 
+1. Pedir un numero y verificar si es par o impar
+2. Sie l numero se puede dividir entre 2, es par (xnumber/2)
+3. Si se puede dividir, mostrar xnumber "Es par"
+4. Sino xnumber "Es impar"
+![algoritmoDiagrama](https://user-images.githubusercontent.com/82097345/203882114-6042f3f3-523f-4d94-bf44-611901ed39a1.png)
+
+-Write pseudocode for an algorithm that calculates the age of a person based on date of birth
+1. Pedir el de nacimiento (xbirthdayear)
+2. Calcular el tiempo que ha transcurrido hasta hoy, 2022.
+3. Restar la el año en el que estamos(2022) al año de nacimiento de la persona(xbirthdayear)
+4. Entonces edad seria igual a la resta del año en que estamos menos xbirthdayear.
+5. Mostrar la edad de la persona.
+
+-Which chests have treasures?
+1. Each chest has a message, but all the messages are lies.
+2. The only two possible options are:
+2.1 none of the chest have treasure
+2.2 left and right have treasures
+3. So the answer is chest A and chest C, as we read in the instructions, are just the only ones.
